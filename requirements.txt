@@ -1,1 +1,8 @@
-streamlit>=1.26.0
+streamlit
+transformers
+torch
+scikit-learn
+hdbscan
+openai
+fpdf
+plotly
